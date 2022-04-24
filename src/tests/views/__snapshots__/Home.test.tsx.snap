@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeView tests HomeView snapshot is valid with base props 1`] = `
+<div
+  className="sc-fEOsli etEBoq"
+>
+  <div
+    className="sc-ksZaOG kdKPBT"
+  >
+    <div
+      className="sc-hAZoDl nRnXU"
+    >
+      <div
+        className="sc-gKXOVf bYsPSI"
+      >
+        <div
+          className="sc-iBkjds ffxseL"
+        >
+          <input
+            className="sc-ftvSup cSQcVc"
+            onChange={[Function]}
+            placeholder="Search for a cities weather by typing the cities name."
+            value="Boulder, CO, USA"
+          />
+          <img
+            className="sc-kDDrLX iXqnFh arrow-up"
+            onClick={[Function]}
+            src="down.png"
+          />
+          <img
+            className="sc-kDDrLX iXqnFh"
+            onClick={[Function]}
+            src="cancel.png"
+          />
+        </div>
+      </div>
+      <div
+        className="sc-evZas bHogbH"
+      >
+        <div
+          className="sc-breuTD bKyzzD"
+          onClick={[Function]}
+        >
+          Imperial
+        </div>
+        <div
+          className="sc-breuTD fbmTqK"
+          onClick={[Function]}
+        >
+          Metric
+        </div>
+      </div>
+      <div
+        className="sc-iqcoie gRqzmc"
+        disabled={false}
+        onClick={[Function]}
+        role="button"
+        width="var(--col-width)"
+      >
+        <span
+          className="sc-crXcEl cXKdGn"
+        >
+          Use current location?
+        </span>
+      </div>
+    </div>
+    <div
+      className="sc-fnykZs knWTCK"
+    >
+      <div
+        className="sc-iqcoie oABfL"
+        disabled={false}
+        onClick={[Function]}
+        role="button"
+        width="100%"
+      >
+        <span
+          className="sc-crXcEl cXKdGn"
+        >
+          Search
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-idiyUo gmimwu"
+  >
+    <div
+      className="sc-bczRLJ kRwXGP"
+    />
+  </div>
+</div>
+`;

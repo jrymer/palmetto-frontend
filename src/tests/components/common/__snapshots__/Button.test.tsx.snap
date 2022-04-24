@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button tests Button snapshot is valid with base props 1`] = `
+<div
+  className="sc-bczRLJ fKnbXX"
+  disabled={false}
+  onClick={[Function]}
+  role="button"
+  width="var(--col-width)"
+>
+  <span
+    className="sc-gsnTZi bBpxKd"
+  >
+    Search
+  </span>
+</div>
+`;

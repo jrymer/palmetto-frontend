@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AutocompleteField tests AutocompleteField snapshot is valid with base props 1`] = `
+<div
+  className="sc-bczRLJ gGnwEU"
+>
+  <div
+    className="sc-gsnTZi ljIsTr"
+  >
+    <input
+      className="sc-dkzDqf fvtmIs"
+      onChange={[Function]}
+      placeholder="Search for a cities weather by typing the cities name."
+      value="Value One"
+    />
+    <img
+      className="sc-jSMfEi kqElsy arrow-up"
+      onClick={[Function]}
+      src="down.png"
+    />
+    <img
+      className="sc-jSMfEi kqElsy"
+      onClick={[Function]}
+      src="cancel.png"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search tests Search snapshot is valid with base props 1`] = `
+<div
+  className="sc-jqUVSM iZFqHG"
+>
+  <div
+    className="sc-kDDrLX eRXeJp"
+  >
+    <div
+      className="sc-bczRLJ gGnwEU"
+    >
+      <div
+        className="sc-gsnTZi ljIsTr"
+      >
+        <input
+          className="sc-dkzDqf fvtmIs"
+          onChange={[Function]}
+          placeholder="Search for a cities weather by typing the cities name."
+          value="Seattle"
+        />
+        <img
+          className="sc-jSMfEi kqElsy arrow-up"
+          onClick={[Function]}
+          src="down.png"
+        />
+        <img
+          className="sc-jSMfEi kqElsy"
+          onClick={[Function]}
+          src="cancel.png"
+        />
+      </div>
+    </div>
+    <div
+      className="sc-ftvSup yFjDi"
+    >
+      <div
+        className="sc-papXJ iZZXbE"
+        onClick={[Function]}
+      >
+        Imperial
+      </div>
+      <div
+        className="sc-papXJ PYhPZ"
+        onClick={[Function]}
+      >
+        Metric
+      </div>
+    </div>
+    <div
+      className="sc-gKXOVf gAJbHT"
+      disabled={false}
+      onClick={[Function]}
+      role="button"
+      width="var(--col-width)"
+    >
+      <span
+        className="sc-iBkjds hHMvLV"
+      >
+        Use current location?
+      </span>
+    </div>
+  </div>
+  <div
+    className="sc-iqcoie bBDdMh"
+  >
+    <div
+      className="sc-gKXOVf lbXjEc"
+      disabled={false}
+      onClick={[Function]}
+      role="button"
+      width="100%"
+    >
+      <span
+        className="sc-iBkjds hHMvLV"
+      >
+        Search
+      </span>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UnitPicker tests UnitPicker snapshot is valid with base props 1`] = `
+<div
+  className="sc-bczRLJ frTItf"
+>
+  <div
+    className="sc-gsnTZi jYMLFq"
+    onClick={[Function]}
+  >
+    Imperial
+  </div>
+  <div
+    className="sc-gsnTZi jzlcWz"
+    onClick={[Function]}
+  >
+    Metric
+  </div>
+</div>
+`;

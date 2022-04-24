@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Results tests Results snapshot is valid with base props 1`] = `
+<div
+  className="sc-bczRLJ wnsic"
+>
+  <div>
+    Seattle
+  </div>
+  <div
+    className="sc-hKMtZM fvCfgH"
+  >
+    <div>
+      <div
+        className="sc-gsnTZi hTdNUT"
+      >
+        16.42° C
+         and 
+        Clouds
+      </div>
+      <div
+        className="sc-dkzDqf iUQuVc"
+      >
+        Feels Like: 
+        15.61° C
+      </div>
+      <div
+        className="sc-dkzDqf iUQuVc"
+      >
+        High: 
+        18.29° C
+         Low: 
+        14.89° C
+      </div>
+    </div>
+    <div>
+      <div>
+        Humidity: 
+        57%
+      </div>
+      <div>
+        Pressure: 
+        1014 hPa
+      </div>
+      <div>
+        Visibility: 
+        1000 km
+      </div>
+      <div>
+        Wind: 
+        3.09 mps
+         at 
+        280°
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-hKMtZM fvCfgH"
+  >
+    <div>
+      Broken clouds
+      .
+    </div>
+    <div>
+      Sunrise: 
+      2:43
+       Sunset: 
+      2:44
+    </div>
+  </div>
+</div>
+`;
